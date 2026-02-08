@@ -1,16 +1,15 @@
 # Marketing Analytics Case Study – Power BI
 
-![Dashboard Preview](Executive_overview.jpg)
+![Dashboard Preview](Executive overview.jpg)
 
 *Interactive marketing analytics dashboard for campaign performance analysis*
 
 ---
 
 ## Quick Links
-- 📊 [Live Interactive Dashboard](#) *(Add your Power BI publish link here)*
-- 📥 [Download .pbix file](#) *(Add link to .pbix file)*
 - 📸 [Full Dashboard Screenshots](#dashboard-screenshots)
 
+- 📧 .pbix file available upon request
 ---
 
 ## Project Overview
@@ -139,25 +138,25 @@ The model is designed to support:
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Executive_overview.jpg)
+![Executive Overview](Executive overview.jpg)
 *High-level KPIs and revenue distribution across channels and products*
 
 ---
 
 ### Campaigns Efficiency
-![Campaigns Efficiency](Campaigns_Efficiency.jpg)
+![Campaigns Efficiency](Campaigns Efficiency.jpg)
 *Scatter plot analysis with custom tooltip showing scale vs. customer value trade-offs*
 
 ---
 
 ### Buyers Composition
-![Buyers Composition](Buyers_composition.jpg)
+![Buyers Composition](Buyers composition.jpg)
 *Demographic analysis with dynamic narrative that adapts to filter selections*
 
 ---
 
 ### Purchase Drivers
-![Purchase Drivers](Purchase_drivers.jpg)
+![Purchase Drivers](Purchase drivers.jpg)
 *AI-powered Key Influencers analysis revealing what drives campaign acceptance and sales*
 
 ---
@@ -206,7 +205,7 @@ The model is designed to support:
 
 ## Notes
 - This is a **portfolio project** created to demonstrate Power BI and analytics capabilities
-- Data is fictional / anonymized and used exclusively for demonstration purposes
+- Data is anonymized and used exclusively for demonstration purposes
 - The project emphasizes analytical depth and technical implementation over dataset size
 - Focus is on decision-oriented insights rather than operational reporting
 
@@ -224,9 +223,8 @@ Potential additions for future iterations:
 
 ## Contact
 Questions or feedback? Feel free to reach out:
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Website](#)
+- **LinkedIn**: [Irina Ardeleanu](www.linkedin.com/in/irina-ioana-ardeleanu)
+- **Email**: irina.ioana.ardeleanu@gmail.com
 
 ---
 
