@@ -1,6 +1,6 @@
 # Marketing Analytics Case Study – Power BI
 
-![Dashboard Preview](Executive overview.jpg)
+![Dashboard Preview](Executive_overview.jpg)
 
 *Interactive marketing analytics dashboard for campaign performance analysis*
 
@@ -138,25 +138,25 @@ The model is designed to support:
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Executive overview.jpg)
+![Executive Overview](Executive_overview.jpg)
 *High-level KPIs and revenue distribution across channels and products*
 
 ---
 
 ### Campaigns Efficiency
-![Campaigns Efficiency](Campaigns Efficiency.jpg)
+![Campaigns Efficiency](Campaigns_Efficiency.jpg)
 *Scatter plot analysis with custom tooltip showing scale vs. customer value trade-offs*
 
 ---
 
 ### Buyers Composition
-![Buyers Composition](Buyers composition.jpg)
+![Buyers Composition](Buyers_composition.jpg)
 *Demographic analysis with dynamic narrative that adapts to filter selections*
 
 ---
 
 ### Purchase Drivers
-![Purchase Drivers](Purchase drivers.jpg)
+![Purchase Drivers](Purchase_drivers.jpg)
 *AI-powered Key Influencers analysis revealing what drives campaign acceptance and sales*
 
 ---
