@@ -199,7 +199,7 @@ The model is designed to support:
 - **Power BI Desktop** - Dashboard development
 - **Power BI Service** - Publishing and sharing
 - **DAX** - Advanced calculations and measures
-- **Power Query** - Data transformation (if applicable)
+- **Power Query** - Data transformation
 
 ---
 
